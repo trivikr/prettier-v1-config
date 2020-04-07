@@ -1,0 +1,8 @@
+{
+  "name": "prettier-v1-config",
+  "version": "1.0.0-beta.1",
+  "main": "index.json",
+  "repository": "git@github.com:trivikr/prettier-v1-config.git",
+  "author": "Kamat, Trivikram <trivikr.dev@gmail.com>",
+  "license": "MIT"
+}
